@@ -117,4 +117,4 @@ def ask(
 
 
 question = input("What is your question? ")
-ask(question) 
+print(ask(question))
